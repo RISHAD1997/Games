@@ -1,7 +1,19 @@
+body{
+  background-color: orange;
+}
 td{
   text-align: center;
-  border: 5px solid black;
-  width: 150px;
-  height: 150px;
-  font-size: 100px;
+  border: 2px solid black;
+  width: 140px;
+  height: 140px;
+  font-size: 70px;
+  background-color: grey;
+  font-family: t
+}
+.btn{
+  margin-top: 20px;
+  margin-left: 47%;
+}
+#msg{
+  color: green;
 }
